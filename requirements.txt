@@ -1,5 +1,12 @@
-pip
-autopep8
-Flask==3.0.3
-gunicorn==22.0.0
-Werkzeug==3.0.6
+langchain
+langchain-community
+langchain-google-genai
+langchain-tavily
+langgraph
+yfinance
+tavily-python
+duckduckgo-search
+ddgs
+fastapi
+uvicorn
+python-dotenv
